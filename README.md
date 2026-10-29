@@ -9,3 +9,11 @@ To proceed, select the EC2 instance you want to connect to through the Linux com
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/be649ea0-d6c8-42a0-ad0c-03c58cfc1b1e" />
 
+For the "In web browser" tab it offers a few ways to connect; for this demonstration, I will be using EC2 Instance Connect. So I will leave the selection as is
+
+<img width="1920" height="852" alt="image" src="https://github.com/user-attachments/assets/36f7772b-22bb-4487-abe0-98427d2e34e7" />
+
+Next, you want to verify the Public IPv4 address and just below that will be your username which will be provided by default. Once these are both verified you can then proceed by right-clicking Connect at the bottom of the page
+
+<img width="936" height="794" alt="image" src="https://github.com/user-attachments/assets/ad711e20-2555-414d-b0f1-57dde5011f7d" />
+
