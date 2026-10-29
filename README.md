@@ -21,3 +21,8 @@ You should now have access to the Amazon Linux 2023 terminal
 
 <img width="968" height="1080" alt="image" src="https://github.com/user-attachments/assets/521f48a8-aaea-4b84-9c19-e51247785f4d" />
 
+To confirm it is functioning properly, you can run some basic commands such as "whoami" or "ping google.com"
+
+<img width="965" height="1080" alt="image" src="https://github.com/user-attachments/assets/4dc102cc-83e2-4273-a928-e73a959fc320" />
+
+<img width="961" height="1079" alt="image" src="https://github.com/user-attachments/assets/704657f5-2357-445d-998f-7068e9aafcbe" />
