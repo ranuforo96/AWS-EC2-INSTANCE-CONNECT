@@ -17,3 +17,7 @@ Next, you want to verify the Public IPv4 address and just below that will be you
 
 <img width="936" height="794" alt="image" src="https://github.com/user-attachments/assets/ad711e20-2555-414d-b0f1-57dde5011f7d" />
 
+You should now have access to the Amazon Linux 2023 terminal
+
+<img width="968" height="1080" alt="image" src="https://github.com/user-attachments/assets/521f48a8-aaea-4b84-9c19-e51247785f4d" />
+
