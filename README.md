@@ -49,13 +49,13 @@ Upon removing the port 80 rule, you will no longer be granted access to the Linu
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a741acb-f4e1-4ae1-9a36-10fab110944a" />
 
-However, if we add it back, we will be able to continue using the Linux terminal
+However, if I add it back, we will be able to continue using the Linux terminal
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91dcc1c7-4733-474d-aadf-2ee742a021c8" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/867031b7-6226-468c-8aa4-c9344746ca8d" />
 
-Here I..
+Here I added two rules for SSH using both IPv4 and IPv6. I added IPv6 because so
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49cf47e0-28cf-40d3-88ec-dd075a4a3bfc" />
 
