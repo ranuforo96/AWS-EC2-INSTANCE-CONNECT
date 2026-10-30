@@ -53,8 +53,6 @@ However, if I add it back, we will be able to continue using the Linux terminal
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91dcc1c7-4733-474d-aadf-2ee742a021c8" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/867031b7-6226-468c-8aa4-c9344746ca8d" />
-
 Here I added back the port 80 rule for any IPv4 address. 
 
 "NOTE" Adding SSH from anywhere IPv6 might be needed depending on your network. Having both ensures users can connect regardless of their network type. However, for better security, it's usually recommended to restrict access to only your specific, known IP address
