@@ -39,3 +39,9 @@ If I were to delete the SSH rule by editing the inbound rules, I would no longer
 
 <img width="1024" height="494" alt="image" src="https://github.com/user-attachments/assets/199f2701-b860-4b4b-8c21-34fd7b4bf147" />
 
+<img width="1024" height="496" alt="image" src="https://github.com/user-attachments/assets/7c5d04d3-0b10-4b2e-95d0-5338551c9d5e" />
+
+<img width="1024" height="494" alt="image" src="https://github.com/user-attachments/assets/c14eb8b2-8ab3-4a38-bb1d-9253cdb9cdb2" />
+
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/85451af5-279d-4421-a94e-75b0a46fa4ca" />
+
