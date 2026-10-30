@@ -45,5 +45,35 @@ If I were to delete the SSH rule by editing the inbound rules, I would no longer
 
 <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/85451af5-279d-4421-a94e-75b0a46fa4ca" />
 
+Upon removing the port 80 rule, you will no longer be granted access to the Linux terminal
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a741acb-f4e1-4ae1-9a36-10fab110944a" />
+
+However, if we add it back, we will be able to continue using the Linux terminal
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91dcc1c7-4733-474d-aadf-2ee742a021c8" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/867031b7-6226-468c-8aa4-c9344746ca8d" />
+
+Here I..
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49cf47e0-28cf-40d3-88ec-dd075a4a3bfc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b50193d-5979-4c77-937d-ca1be4b25933" />
+
+Rules was saved successfully
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7175dc6b-b0fa-42ba-9e37-1153c2abebb7" />
+
+Now, if I try accessing the Amazon Linux 2023 terminal, I should have no issues
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/578dcda9-7e1f-4f6e-a37f-cb4a84374032" />
+
+Review the information once more and press Connect to access the terminal
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e12aa83-3fdf-47a3-aa40-c6f0dfe4ba32" />
+
+I have now regained access with no errors 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6adf0634-f7f8-4091-99a0-70694a6b8f5e" />
 
