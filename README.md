@@ -55,13 +55,15 @@ However, if I add it back, we will be able to continue using the Linux terminal
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/867031b7-6226-468c-8aa4-c9344746ca8d" />
 
-Here I added two rules for SSH using both IPv4 and IPv6. I added IPv6 because so
+Here I added back the port 80 rule for any IPv4 address. 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49cf47e0-28cf-40d3-88ec-dd075a4a3bfc" />
+"NOTE" Adding SSH from anywhere IPv6 might be needed depending on your network. Having both ensures users can connect regardless of their network type. However, for better security, it's usually recommended to restrict access to only your specific, known IP address
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b50193d-5979-4c77-937d-ca1be4b25933" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18e14a9b-0c4b-4af4-a09e-2880d3553480" />
 
-Rules was saved successfully
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06163f7b-b477-45fb-81ea-f230b244d821" />
+
+Rule was saved successfully
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7175dc6b-b0fa-42ba-9e37-1153c2abebb7" />
 
