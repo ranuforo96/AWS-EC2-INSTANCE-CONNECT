@@ -26,3 +26,16 @@ To confirm it is functioning properly, you can run some basic commands such as "
 <img width="965" height="1080" alt="image" src="https://github.com/user-attachments/assets/4dc102cc-83e2-4273-a928-e73a959fc320" />
 
 <img width="961" height="1079" alt="image" src="https://github.com/user-attachments/assets/704657f5-2357-445d-998f-7068e9aafcbe" />
+
+Although EC2 Instance Connect is browser-based, it still requires Port 22 (SSH) to be open in your instance's Security Group. Deleting or blocking Port 22 will cause connection timeouts because the underlying transport protocol is still SSH
+
+For example, to inspect the initial security configuration, open your instance (My First EC2), select the Security tab, and click the attached security group (launch-wizard-1) to review its active rules
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/f31ec44e-addf-4574-8656-e86f18e78f6d" />
+
+<img width="1024" height="492" alt="image" src="https://github.com/user-attachments/assets/5f5c9681-9484-4884-91be-154ecfafe113" />
+
+If I were to delete the SSH rule by editing the inbound rules, I would no longer have access to the Linux terminal
+
+<img width="1024" height="494" alt="image" src="https://github.com/user-attachments/assets/199f2701-b860-4b4b-8c21-34fd7b4bf147" />
+
